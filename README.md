@@ -2,7 +2,7 @@
 _____________________________________________________________________________________________________________________________________
 
 - 💞️ I'm a self-taught Data Analyst 
-- 👋 I recently received my Google Data Analyst Certification.
+- 👋 I recently earned my Google Data Analytics Certificate.
 - 🌱 I'm currently learning and improving my skills in Excel, SQL, and Tableau.
 - 📫 I'm always learning something new. Right now it's Python for data analysis.
 
